@@ -1,6 +1,11 @@
 # Flipper Application Packages (FAPs)
 
-## [(Some links to authors and descriptions here)](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)#readme)
+## [Some links to authors and descriptions here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)#readme)
+
+---
+*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
+From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
+---
 
 The long-awaited addition of loading plugins (applications) from the SD card is here thanks to some hard work by the Official Flipper devteam. Anna/hedger released a FAP pack with some pre-built plugins, ready to go. Check out the [Official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) for more info.
 
@@ -34,15 +39,15 @@ To exit and/or load something else, simply use the BACK button.
 ### Official documentation
 https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md
 
-### Dev documentation by at-manos
+### uFBT - micro Flipper Build Tool
+https://github.com/flipperdevices/flipperzero-ufbt
+
+### Dev documentation by at-manos(outdated)
 https://flipper.atmanos.com/docs/category/overview
 
 ### Flipper plugin tutorial
-By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial
-
-By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero <br>
-The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper
-
+By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial<br>
+By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero (The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper )<br>
 By csBlueChip: https://github.com/csBlueChip/FlipperZero_plugin_howto
 
 ## Hello world examples
@@ -65,7 +70,8 @@ I've had so many asking for me to add this.<br>
 **BTC**: `3AWgaL3FxquakP15ZVDxr8q8xVTc5Q75dS`<br>
 **BCH**: `17nWCvf2YPMZ3F3H1seX8T149Z9E3BMKXk`<br>
 **ETH**: `0x0f0003fCB0bD9355Ad7B124c30b9F3D860D5E191`<br>
-**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`
+**LTC**: `M8Ujk52U27bkm1ksiWUyteL8b3rRQVMke2`<br>
+**PayPal**: `uberguidoz@gmail.com`
 
 So, here it is. All donations of *any* size are humbly appreciated.<br>
 ![Flipper_Clap](https://user-images.githubusercontent.com/57457139/183561789-2e853ede-8ef7-41e8-a67c-716225177e5d.jpg) ![Flipper_OMG](https://user-images.githubusercontent.com/57457139/183561787-e21bdc1e-b316-4e67-b327-5129503d0313.jpg)
